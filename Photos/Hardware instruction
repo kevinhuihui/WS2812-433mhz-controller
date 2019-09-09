@@ -1,0 +1,21 @@
+Hardware photos：
+
+# 433mhz recevier
+# 4 buttons controller
+# Arduino Uno
+
+433mhz recevier pins:
+//FROM RIGHT TO LEFT -- BACK
+
+ANT:    Antenna
+GND:    GND
+LED:    External indicator can be connected
+SW :    External learning button
+VT :    Common signal, high level output when effective signal
+D0 :    OUTPUT
+D1 :    OUTPUT
+D2 :    OUTPUT
+D3 :    OUTPUT
+VDD:    5V
+GND:    GND
+
